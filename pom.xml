@@ -43,7 +43,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://13.221.147.154:8081/repository/docker-project-task/</url>
+            <url>http://54.208.92.60:8081/repository/docker-project-task/</url>
         </repository>
     </distributionManagement>
 </project>
